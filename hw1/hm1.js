@@ -19,7 +19,7 @@ function printNumbers(number)
                 console.log('Девяносто Восемь');
                 break;
             default:
-                console.log(i);
+                console.log(i); 
                 break;
         }
     }
