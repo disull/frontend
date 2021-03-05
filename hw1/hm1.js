@@ -1,6 +1,6 @@
 function printNumbers(number)
 {
-    for(var i = 0; i<=number; i++){
+    for(let i = 0; i<=number; i++){
 
         switch(i){
             case 5:
