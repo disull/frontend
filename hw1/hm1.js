@@ -10,7 +10,7 @@ function printNumbers(number)
                 console.log('Тринадцать');
                 break;
             case 22:
-                console.log('Двадцать два');
+                console.log('Двадцать два'); 
                 break;
             case 35:
                 console.log('Тридцать пять');
@@ -19,7 +19,7 @@ function printNumbers(number)
                 console.log('Девяносто Восемь');
                 break;
             default:
-                console.log(i); 
+                console.log(i);
                 break;
         }
     }
